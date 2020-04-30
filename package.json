@@ -23,7 +23,7 @@
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "^5.12.0",
-        "jquery": "^3.4.1",
+        "jquery": "^3.5.0",
         "vue": "^2.6.11",
         "vue-template": "^1.0.3"
     }
